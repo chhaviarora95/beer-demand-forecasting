@@ -8,8 +8,12 @@ As one of the world’s leading brewers, Anheuser-Busch has a variety of differe
 Hence, it is important to understand the demand of the products in advance. That could help the brewers plan better to have good inventory, would in-turn help the wholesalers have enough stock for the retailers to have customers' favourite products on-shelf!  For example, if the breweries get a high demand forecast for the next few days or weeks, they can ramp up the manufacturing supply accordingly and ensure customer satisfaction and effective sales.
 
 ## Solution Approach
-Using 5 years worth of weekly sales/demand data, we could try to learn from the trends and signals and build a model to effectively forecase demand for 2 weeks ahead. We could utilize this model to better plan for future and in-return not only help the wholesalers and retailers ensure availibility of popular products but also ensure customer satisfaction.
+Using 5 years worth of weekly sales/demand data, we could try to learn from the trends and signals and build a model to effectively forecase demand for 2 months ahead. We could utilize this model to better plan for future and in-return not only help the wholesalers and retailers ensure availibility of popular products but also ensure customer satisfaction.
 
-**To build an MVP, we would build a forecasting model for 5 products for 2 wholesalers from 2 different states - NY & TX for the next 2 weeks.**
+**To build an MVP, we would build a forecasting model for 10 products for 8 wholesalers from 2 different states - NY & TX for the next 2 months.**
 
-## Forecasted demand for 2 weeks
+## Forecasted demand for 2 months
+<img width="985" alt="Screen Shot 2023-01-27 at 6 15 05 PM" src="https://user-images.githubusercontent.com/50632051/215224277-77f49cf0-fd8c-488f-9a9c-9a2c33c93d06.png">
+
+## Conclusion
+The forecasted values for the next 2 months in the future OVERALL across  seems to also follow a similar trend that we had observed during EDA across years on average that demand starts to peak significantly in July. Hence, it feels like the models did a decent job learning from the patterns and signals in the data.
