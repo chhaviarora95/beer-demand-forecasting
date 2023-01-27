@@ -3,11 +3,13 @@
 
 
 ## Business Problem
-As one of the world’s leading brewers, Anheuser-Busch has a variety of different brands and works with a lot of wholesalers and retailers. One of the leading challenges in serving consumers is to ensure product-availability with wholesalers. Based on market research, when consumers notice their favourite brand is missing from the shelves of retailers, they may quickly make the choice for a competitor’s brand instead. 
+As one of the world’s leading brewers, Anheuser-Busch has a variety of different brands and works with a lot of wholesalers and retailers. One of the leading challenges in serving consumers is to ensure product-availability with wholesalers. Based on market research, when consumers notice their favourite brand is missing from the shelves of retailers, they may quickly make the choice for a competitor’s brand instead.
 
-Understanding the demand of the products in advance, could help the brewers plan better to have good inventory, would in-turn help the wholesalers have enough stock for the retailers to have customers' favourite products on-shelf! With the significant business impact, the goal for the project is to forecast product demand for 5 products for 2 wholesalers for the next 14 days. 
-
+Hence, it is important to understand the demand of the products in advance. That could help the brewers plan better to have good inventory, would in-turn help the wholesalers have enough stock for the retailers to have customers' favourite products on-shelf!  For example, if the breweries get a high demand forecast for the next few days or weeks, they can ramp up the manufacturing supply accordingly and ensure customer satisfaction and effective sales.
 
 ## Solution Approach
+Using 5 years worth of weekly sales/demand data, we could try to learn from the trends and signals and build a model to effectively forecase demand for 2 weeks ahead. We could utilize this model to better plan for future and in-return not only help the wholesalers and retailers ensure availibility of popular products but also ensure customer satisfaction.
 
-## Forecasted demand for 14 days
+**To build an MVP, we would build a forecasting model for 5 products for 2 wholesalers from 2 different states - NY & TX for the next 2 weeks.**
+
+## Forecasted demand for 2 weeks
