@@ -16,4 +16,4 @@ Using 5 years worth of weekly sales/demand data, we could try to learn from the 
 <img width="985" alt="Screen Shot 2023-01-27 at 6 15 05 PM" src="https://user-images.githubusercontent.com/50632051/215224277-77f49cf0-fd8c-488f-9a9c-9a2c33c93d06.png">
 
 ## Conclusion
-The forecasted values for the next 2 months in the future OVERALL across  seems to also follow a similar trend that we had observed during EDA across years on average that demand starts to peak significantly in July. Hence, it feels like the models did a decent job learning from the patterns and signals in the data.
+**The forecasted values for the next 2 months in the future OVERALL across  seems to also follow a similar trend that we had observed during EDA across years on average that demand starts to peak significantly in July. Hence, it feels like the models did a decent job learning from the patterns and signals in the data.**
