@@ -13,7 +13,8 @@ Using 5 years worth of weekly sales/demand data, we could try to learn from the 
 **To build an MVP, we would build a forecasting model for 10 products for 8 wholesalers from 2 different states - NY & TX for the next 2 months.**
 
 ## Forecasted demand for 2 months
-<img width="985" alt="Screen Shot 2023-01-27 at 6 15 05 PM" src="https://user-images.githubusercontent.com/50632051/215224277-77f49cf0-fd8c-488f-9a9c-9a2c33c93d06.png">
+<img width="988" alt="Screen Shot 2023-01-28 at 9 26 43 AM" src="https://user-images.githubusercontent.com/50632051/215272069-70e45d9a-9d61-46a8-a42a-1c0bdc2c8f66.png">
+
 
 ## Conclusion
-**The forecasted values for the next 2 months in the future OVERALL across  seems to also follow a similar trend that we had observed during EDA across years on average that demand starts to peak significantly in July. Hence, it feels like the models did a decent job learning from the patterns and signals in the data.**
+**The forecasted values for the next 2 months in the future overall seems to also follow a similar trend that we had observed during EDA across years on average that demand starts to jump in early january and relatively stays consistent. Hence, it feels like the models did a decent job learning from the patterns and signals in the data.**
