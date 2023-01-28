@@ -3,7 +3,7 @@
 
 
 ## Business Problem
-As one of the world’s leading brewers, Anheuser-Busch has a variety of different brands and works with a lot of wholesalers and retailers. One of the leading challenges in serving consumers is to ensure product-availability with wholesalers. Based on market research, when consumers notice their favourite brand is missing from the shelves of retailers, they may quickly make the choice for a competitor’s brand instead.
+As one of the world’s leading brewers, AB has a variety of different brands and works with a lot of wholesalers and retailers. One of the leading challenges in serving consumers is to ensure product-availability with wholesalers. Based on market research, when consumers notice their favourite brand is missing from the shelves of retailers, they may quickly make the choice for a competitor’s brand instead.
 
 Hence, it is important to understand the demand of the products in advance. That could help the brewers plan better to have good inventory, would in-turn help the wholesalers have enough stock for the retailers to have customers' favourite products on-shelf!  For example, if the breweries get a high demand forecast for the next few days or weeks, they can ramp up the manufacturing supply accordingly and ensure customer satisfaction and effective sales.
 
